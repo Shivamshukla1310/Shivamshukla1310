@@ -74,6 +74,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Shivamshukla1310/Shivamshukla1310/output/github-contribution-grid-snake-dark.svg" />
+
   <img src="https://github-readme-stats.vercel.app/api?username=Shivamshukla1310&show_icons=true&theme=tokyonight" width="45%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivamshukla1310&theme=tokyonight" width="45%"/>
 </p>
